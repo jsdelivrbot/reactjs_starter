@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/kishan-gajjar/reactjs-starter#readme",
   "dependencies": {
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "youtube-api-search": "0.0.5"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
