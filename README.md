@@ -13,7 +13,7 @@ Checkout this repository:
 > git clone https://github.com/kishan-gajjar/reactjs-starter.git
 > cd reactjs-starter
 ```
-Get your Youtube Data Api key from https://console.developers.google.com/apis/api/youtube.googleapis.com/
+Get your Youtube Data API key from https://console.developers.google.com/apis/api/youtube.googleapis.com/
 ```
 > replace <youtube_data_api_key> inside src/index.js with your key
 ```
@@ -21,7 +21,7 @@ Install Dependencies
 ```
 > npm install
 ```
-Starting Application
+Start Application
 ```
 > npm start
 ```
