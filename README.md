@@ -1,4 +1,4 @@
-# reactjs-starter
+# Reactjs Starter
 
 Learn ReactJS by building simple youtube like application using youtube data api
 - Learn difference between React class based component and functional component
